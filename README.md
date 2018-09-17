@@ -6,3 +6,4 @@ you can run as follows:
       2.change path to CCN_demo folder
       3.run the program
 if it works, you can see the result:
+![Alt text](https://github.com/sosaaaad2/CCN/blob/master/CCN_demo/src/cat.jpg)
