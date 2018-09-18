@@ -1,5 +1,5 @@
 # Introuduction
-Demo of paper{An Efficient Compressive Convolutional Network for Unified \\ Object Detection and Image Compression} 
+This is the demo software for the paper An Efficient Compressive Convolutional Network for Unified Object Detection and Image Compression.  
 The demo consists of two parts, that is the front-end software for object detection and image compression, and the back-end software for image reconstruction and analysis. The front-end software is implemented based on YOLOv2 using C, and back-end software is implemented using matlab.   
 
 # Abstract
