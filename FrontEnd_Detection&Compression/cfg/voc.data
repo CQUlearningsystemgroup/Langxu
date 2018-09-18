@@ -1,0 +1,6 @@
+classes= 20
+train  = /media/ubuntu/Data/YOLO_XL/darknet/train.txt
+valid  = /media/ubuntu/Data/YOLO_XL/darknet/2007_test.txt
+names = data/voc.names
+backup = /media/ubuntu/Data/YOLO_XL/darknet/backup
+
