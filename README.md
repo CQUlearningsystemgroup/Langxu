@@ -22,7 +22,7 @@ https://pjreddie.com/darknet/yolov2/
 
 ## BackEnd_Reconstruction&Analysis
 The back-end software contains code for image reconstruction,   
-you can run the code as follows:  
+you can run the code as follows in CCN_demo folder:  
 
       1.change path to CCN_demo folder
       2.run demo.m
