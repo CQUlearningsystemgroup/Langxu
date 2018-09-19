@@ -9,12 +9,12 @@ This project addresses the challenge of designing efficient framework for real-t
 
 ## FrontEnd_Detection&Compression
 
-      1.Download the software in the folder of FrontEnd_Detection&Compression. 
+      1.Download the software in the folder of FrontEnd_Detection&Compression, download weights in https://pan.baidu.com/s/11r6Kwxs_gMq6bxPTugE1SA, and put it in CCN_demo folder. 
       2.Install the software as:
             cd FrontEnd_Detection&Compression
             make
       3.Run the front-end software for objection detection and image compression by:
-            ./darknet detect cfg/yolo.cfg backup/1 rate cpu v2/yolo_2002900.weights data/dog.jpg
+            ./darknet detect cfg/yolo.cfg yolo_2002900.weights data/dog.jpg
 
 NOTE: The front-end software is implemented based on YOLO model. We modified the code for model training over both CPU and GPU devices. The weights of the proposed CCN has been uploaded(xxx), but one can train your own CCN model from scratch by the same instructions at:  
 https://pjreddie.com/darknet/yolov2/  
