@@ -56,9 +56,9 @@ c) In table 4, the training set can be mentioned once, that will make the table 
 d) It is not professional to provide a code link in the abstract, and is better to put it as a URL reference or a footnote.
 e) In equation (3), the dimensional of left value is N while the dimension of y is M. Please revise accordingly.    
 **Answer:** Thank you for your suggestion, we will revise the paper as suggested in further revision.
+***
 
-
-# Introuduction
+# Introuduction of the demo
 This is the demo software for the paper An Efficient Compressive Convolutional Network for Unified Object Detection and Image Compression.  
 The demo consists of two parts, that is the front-end software for object detection and image compression, and the back-end software for image reconstruction and analysis. The front-end software is implemented based on YOLOv2 using C, and back-end software is implemented using matlab.   
 
